@@ -26,7 +26,12 @@ cd random-simple-polygon-generation
 
 * Install Matplotlib [here](https://matplotlib.org/3.1.1/users/installing.html).
 
-* Generate a random point set and answer the resulting prompt "Number of vertices: " with an integer <i>n</i> \> 2:
+* cd into the src file:
+```bash
+cd src-generate
+```
+
+* Generate a random point set and answer the resulting prompt "Number of vertices: " with an integer <i>n</i> \> 2. This will produce a test.txt file with all of the generated vertices:
 ```bash
 python3 generate.py
 ```
