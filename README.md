@@ -51,13 +51,13 @@ Once the algorithm terminates, a Matplotlib plot with the final polygon will dis
 ## Examples
 
 ### <i>n</i> = 100
-<img src="https://raw.githubusercontent.com/spoiledhua/random-simple-polygon-generation/master/100.png" width="49%" height="49%" /> 
+<img src="https://raw.githubusercontent.com/spoiledhua/random-simple-polygon-generation/master/examples/100.png" width="49%" height="49%" /> 
 
 ### <i>n</i> = 1000
-<img src="https://raw.githubusercontent.com/spoiledhua/random-simple-polygon-generation/master/1000.png" width="49%" height="49%" />
+<img src="https://raw.githubusercontent.com/spoiledhua/random-simple-polygon-generation/master/examples/1000.png" width="49%" height="49%" />
 
 ### <i>n</i> = 10000
-<img src="https://raw.githubusercontent.com/spoiledhua/random-simple-polygon-generation/master/10000.png" width="49%" height="49%" />
+<img src="https://raw.githubusercontent.com/spoiledhua/random-simple-polygon-generation/master/examples/10000.png" width="49%" height="49%" />
 
 ## Additional Information
 
