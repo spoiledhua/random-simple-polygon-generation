@@ -24,7 +24,10 @@ git clone https://github.com/spoiledhua/random-simple-polygon-generation.git
 cd random-simple-polygon-generation
 ```
 
-* Install Matplotlib [here](https://matplotlib.org/3.1.1/users/installing.html).
+* Install Matplotlib:
+```bash
+pip3 install matplotlib
+```
 
 * cd into the src file:
 ```bash
